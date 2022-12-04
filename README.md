@@ -1,27 +1,23 @@
-### Hi there 👋, my name is Razibul ISlam
-#### I am a web developer
-![I am a web developer](https://pbs.twimg.com/profile_banners/1150245619899879424/1656591470/1500x500)
+### Hi there 👋, I am Razibul Islam
+#### I am a MERN Stack Web Developer
+![I am a MERN Stack Web Developer](https://pbs.twimg.com/profile_banners/1150245619899879424/1670182470/1080x360)
 
-i am learning web development from programming hero
+I am a MERN Stack developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
 
-Skills: HTML / CSS / Tailwind / Bootstrap / JS
-
-- 🔭 I’m currently working on learning 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web development 
+Skills: REACT / JAVASCRIPT / HTML / CSS / MONGODB / NODE / EXPRESS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RazibulIslam665)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/razibul-islam-b0ba46225//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/razibul.islam.1694059)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/razibul.islam.014//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Razibul35001605)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazibulIslam665&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razibul-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/razibul-islam-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/razibul.islam.1694059)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/razibul.islam.014//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Razibul35001605)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazibulIslam665&theme=omni&show_icons=true) 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RazibulIslam665)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razibul-Islam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/RazibulIslam665)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Razibul-Islam&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RazibulIslam665)  
+![GitHub metrics](https://metrics.lecoq.io/Razibul-Islam)  
 
-![Profile views](https://gpvc.arturio.dev/RazibulIslam665) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Razibul-Islam)  
+
+![Profile views](https://gpvc.arturio.dev/Razibul-Islam)  
