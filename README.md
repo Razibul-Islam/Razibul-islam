@@ -1,4 +1,4 @@
-![logo](https://github.com/Razibul-Islam/Razibul-islam/blob/main/Purple%20and%20Pink%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/Razibul-Islam/Razibul-islam/blob/main/git.jfif)
 <h1 align="center">Hi 👋, I'm Razibul Islam</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
