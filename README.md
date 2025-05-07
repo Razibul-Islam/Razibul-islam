@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/razibul35001605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razibul35001605" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/razibul-islam-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razibul-islam-/" height="30" width="40" /></a>
-<a href="https://fb.com/razibul.islam.1694059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razibul.islam.1694059" height="30" width="40" /></a>
+<a href="https://x.com/Razibulislam019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razibul35001605" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/razibulislam014/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razibul-islam-/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/razibulislam014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razibul.islam.1694059" height="30" width="40" /></a>
 <a href="https://instagram.com/razibul.islam.014/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razibul.islam.014/" height="30" width="40" /></a>
 </p>
 
